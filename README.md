@@ -1,0 +1,1 @@
+### Simple inferno boilerplate
